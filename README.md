@@ -55,7 +55,8 @@ The goal is to practice layout structuring, styling, and basic UI design princip
 ```bash
 git clone https://github.com/your-username/profile-card-ui-component.git
 
-===
+
+```
 
 ## 🔗 Links
 
